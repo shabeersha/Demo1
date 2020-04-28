@@ -1362,12 +1362,12 @@ h3 {
   margin-bottom: 62px;
 }
 
-@media (max-width: 767px) {
+/*@media (max-width: 767px) {
   /* line 27, ../../Arafath/CL/january 2020/243.Education/HTML/scss/_slider.scss */
-  .slider_area .single_slider .slider_text h3 br {
+ /* .slider_area .single_slider .slider_text h3 br {
     display: none;
   }
-}
+}*/
 
 /* line 32, ../../Arafath/CL/january 2020/243.Education/HTML/scss/_slider.scss */
 .slider_area .single_slider .slider_text h3 span {
@@ -1391,7 +1391,7 @@ h3 {
 @media (min-width: 992px) and (max-width: 1200px) {
   /* line 20, ../../Arafath/CL/january 2020/243.Education/HTML/scss/_slider.scss */
   .slider_area .single_slider .slider_text h3 {
-    font-size: 55px;
+    font-size: 5em;
   }
 }
 
